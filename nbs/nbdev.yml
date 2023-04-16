@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ZhimuPy"
+  site-url: "https://LifeWorks.github.io/ZhimuPy"
+  description: "A personal python utlility package"
+  repo-branch: main
+  repo-url: "https://github.com/LifeWorks/ZhimuPy"
